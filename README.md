@@ -1,16 +1,13 @@
-# calculator_app
+# Flutter Calculator App
 
-A new Flutter project.
+Bu proje, düzgün bir tasarıma sahip bir hesap makinesi uygulaması geliştirme sürecinde size rehberlik edecektir. Düğmelerde güzel bir 3D efekti oluşturmak için neumorfizmi kullandım. Hesap makinemizin mantık kısmı için riverpod paketini kullandım.
 
-## Getting Started
+## Teknoloji
 
-This project is a starting point for a Flutter application.
+* Neumorphism 
+* Riverpod 
+* 
+## Screen Shots
 
-A few resources to get you started if this is your first Flutter project:
+![Capture](https://user-images.githubusercontent.com/83513264/192862966-5985ed5e-00a5-4d00-bb7c-926ed7290cf4.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
